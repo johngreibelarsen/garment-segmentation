@@ -26,6 +26,9 @@ wheels/
 .installed.cfg
 *.egg
 
+# Don't upload raw images
+input/images_front_200/
+
 # ML weight files
 *.hdf5
 
